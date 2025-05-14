@@ -36,13 +36,6 @@ Principios clave de usabilidad:
 - **Evitar el uso de solo color** para transmitir información.
 - **Navegación clara** con menús lógicos y enlaces descriptivos.
 
-## Autor
-
-**Bruno García Escudero**  
-Proyecto académico — Usabilidad y Accesibildiad
-
-## Archivos Adicionales
-
 ## 🎥 Video Demo
 
 Haz clic en la imagen para ver el video de demostración del lavavajillas inteligente:
@@ -54,4 +47,9 @@ Haz clic en la imagen para ver el video de demostración del lavavajillas inteli
 
 Descarga el documento completo del proyecto en formato PDF:  
 [Proyecto UA.pdf](https://github.com/EscuderoBruno/Lavavajillas-Inteligente/blob/main/Projecto%20UA.pdf)
+
+## Autor
+
+**Bruno García Escudero**  
+Proyecto académico — Usabilidad y Accesibildiad
 
