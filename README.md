@@ -46,7 +46,7 @@ Proyecto académico — Usabilidad y Accesibildiad
 ### 🎥 Video de demostración
 
 Mira el video de demostración del lavavajillas inteligente aquí:  
-[Lavavajillas Inteligente.mov](https://github.com/EscuderoBruno/Lavavajillas-Inteligente/blob/main/Lavavajillas%20Inteligente.mov)
+[Ver Video en YouTube](https://youtu.be/dM2hW8GnEHM)
 
 ### 📄 Documento del Proyecto
 
