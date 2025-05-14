@@ -43,10 +43,12 @@ Proyecto académico — Usabilidad y Accesibildiad
 
 ## Archivos Adicionales
 
-### 🎥 Video de demostración
+## 🎥 Video Demo
 
-Mira el video de demostración del lavavajillas inteligente aquí:  
-[Ver Video en YouTube](https://youtu.be/dM2hW8GnEHM)
+Haz clic en la imagen para ver el video de demostración del lavavajillas inteligente:
+
+[![Ver Video en YouTube](https://img.youtube.com/vi/dM2hW8GnEHM/0.jpg)](https://youtu.be/dM2hW8GnEHM)
+
 
 ### 📄 Documento del Proyecto
 
