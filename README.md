@@ -36,7 +36,7 @@ Principios clave de usabilidad:
 - **Evitar el uso de solo color** para transmitir información.
 - **Navegación clara** con menús lógicos y enlaces descriptivos.
 
-## 🎥 Video Demo
+## 🎥 Demo
 
 Haz clic en la imagen para ver el video de demostración del lavavajillas inteligente:
 
