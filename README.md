@@ -38,6 +38,18 @@ Principios clave de usabilidad:
 
 ## Autor
 
-**Bruno G.**  
+**Bruno García Escudero**  
 Proyecto académico — Usabilidad y Accesibildiad
+
+## Archivos Adicionales
+
+### 🎥 Video de demostración
+
+Mira el video de demostración del lavavajillas inteligente aquí:  
+[Lavavajillas Inteligente.mov](https://github.com/EscuderoBruno/Lavavajillas-Inteligente/blob/main/Lavavajillas%20Inteligente.mov)
+
+### 📄 Documento del Proyecto
+
+Descarga el documento completo del proyecto en formato PDF:  
+[Proyecto UA.pdf](https://github.com/EscuderoBruno/Lavavajillas-Inteligente/blob/main/Projecto%20UA.pdf)
 
