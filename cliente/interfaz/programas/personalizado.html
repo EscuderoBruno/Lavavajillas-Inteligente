@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Lavavajillas Inteligente</title>
+    <meta charset="utf-8">
+    <link rel="stylesheet" href="../style.css">
+    <script type="text/javascript" src="../script.js"></script>
+    <script src="../../electro.js"></script>
+    <script src="../main.js"></script>
+</head>
+
+<body onload="showInfo()">
+
+<div class="boton_home">
+	<div class="borde_derecho">
+		<a href="../home.html">
+			<img id="icon_home" src="../resources\Favorites/icons8-home-100.svg" alt="Home"/>
+		</a>
+	</div>
+
+	<div class="titulo">
+		<div id="tituloPagina">Personalizado</div>
+	</div>
+	<p></p>
+
+</div>
+
+<div class="info">
+	<div id="horaActual"></div>
+</div>
+
+<hr class="linea1">
+
+<div class="foto_personalizado">
+	<figure>
+	  <a class="color_opuesto2"><img width="250px" src="../resources/custom.jpg" alt="Programa Personlizado"></a>
+	</figure>
+</div> 
+
+<div id="controles">
+
+	<div class="ajustes_prelavado" id="flotante" style="display:block;">
+		  <h2 class="prelavado-title">Temperatura</h2>
+		  <a href="temperatura.html"><h3 class="prelavado-sub" id="temperatura"></h3></a>
+		  <h2 class="prelavado-title">Velocidad</h2>
+		  <h3 class="prelavado-sub">1800 rpm</h3>
+	</div>
+
+	<div class="ajustes_prelavado2" id="flotante2" style="display:block;">
+		  <h2 class="prelavado-title">Tiempo</h2>
+		  <a href="tiempo.html"><h3 class="prelavado-sub" id="tiempo"></h3></a>
+		  <h2 class="prelavado-title">Extras</h2>
+		  <h3 class="prelavado-sub">Nada</h3>
+</div>
+
+<div class="tiempo_restante" id="flotante_iniciado" style="display:none;">
+	<div class="volume-wrapper">
+	  <h3 class="hora-title">Tiempo restante:</h3>
+	  <h1 class="hora-hora" id="contador"></h1>
+	</div>
+</div>
+
+<div class="tiempo_restante" id="flotante_llenando" style="display:none;">
+	<div class="volume-wrapper">
+	  <h3 class="hora-title2">Llenando agua...</h3>
+	</div>
+</div>
+
+<div class="tiempo_restante" id="flotante_finalizado" style="display:none;">
+	<div class="volume-wrapper">
+	  <h3 class="hora-title3">Programa finalizado.</h3><br>
+	  <div>	
+	  	<figure class="tick"><img width="90px" src="../resources/tick.png" alt="Tick Completado"></figure>
+	  </div>
+	</div>
+</div>
+
+<a><button class="boton_start" id="lavar" style="display:block;">START</button></a>
+<a href="personalizado.html"><button onclick="parar()" class="boton_stop" id="flotante_iniciado2" style="display:none;">STOP</button></a>
+<a><button onclick="favoritos_intensivo()" class="boton_favoritos" id="flotante3" style="display:block;"></button></a>
+
+<a href="../programas.html" id="flotante_volver"><img src="../resources/volver.png" alt="Boton Volver" style="display:block; padding: 50px; width: 160px; position:absolute; bottom:0; left:0;"></a>
+
+</body>
+
+</html>

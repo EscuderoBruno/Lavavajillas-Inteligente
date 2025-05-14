@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Lavavajillas Inteligente</title>
+    <meta charset="utf-8">
+    <link rel="stylesheet" href="../style.css">
+    <script type="text/javascript" src="../script.js"></script>
+    <script src="../../electro.js"></script>
+    <script src="../main.js"></script>
+</head>
+
+<body onload="showInfo()">
+
+<div class="boton_home">
+	<div class="borde_derecho">
+		<a href="../home.html">
+			<img id="icon_home" src="../resources\Favorites/icons8-home-100.svg" alt="Home"/>
+		</a>
+	</div>
+
+	<div class="titulo">
+		<div id="tituloPagina">Idioma</div>
+	</div>
+	<p></p>
+
+</div>
+
+<div class="info">
+	<div id="horaActual"></div>
+</div>
+
+<hr class="linea1">
+
+<div class="container_info2">
+  <a><div id="english" onclick="seleccionarIdioma('english')">English</div></a>
+  <a><div id="espanol" onclick="seleccionarIdioma('espanol')">Español</div></a>
+</div>
+
+<div class="container_info2">
+
+  <a><div id="deutsch" onclick="seleccionarIdioma('deutsch')">Deutsch</div></a>
+  <a><div id="français" onclick="seleccionarIdioma('français')">Français</div></a>
+</div>
+
+<div class="container_info2">
+
+  <a><div id="chino" onclick="seleccionarIdioma('chino')">中华人民共和国</div></a>
+  <a><div id="japones" onclick="seleccionarIdioma('japones')">日本国</div></a>
+</div>
+
+<a href="../ajustes.html"><img src="../resources/volver.png" alt="Boton Volver" style="padding: 50px; width: 160px; position:absolute; bottom:0; left:0;"></a>
+<button class="boton_ok" onclick="aplicarIdioma()">OK</button>
+
+</body>
+
+</html>

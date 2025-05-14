@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Lavavajillas Inteligente</title>
+    <meta charset="utf-8">
+    <link rel="stylesheet" href="style.css">
+    <script type="text/javascript" src="script.js"></script>
+    <script src="../electro.js"></script>
+    <script src="main.js"></script>
+</head>
+
+<body onload="showInfo()">
+
+<div class="boton_home">
+	<div class="borde_derecho">
+		<a href="home.html">
+			<img id="icon_home" src="resources\Favorites/icons8-home-100.svg" alt="Home"/>
+		</a>
+	</div>
+
+	<div class="titulo">
+		<div id="tituloPagina">Análisis</div>
+	</div>
+	<p></p>
+
+</div>
+<div class="info">
+	<div id="horaActual"></div>
+</div>
+
+<!-- Cuerpo -->
+
+<hr class="linea1">
+
+<div id="controles">
+
+	<div class="analisis">
+		  <h2 class="prelavado-title">Puerta Abierta</h2>
+		  <h3 class="prelavado-sub" id="puertaabierta"></h3><br>
+		  <h2 class="prelavado-title">Nivel de agua</h2>
+		  <h3 class="prelavado-sub" id="nivelagua"></h3>
+	</div>
+
+	<div class="analisis2">
+		  <h2 class="prelavado-title">Temperatura</h2>
+		  <h3 class="prelavado-sub" id="temperatura"></h3><br>
+		  <h2 class="prelavado-title">Consumo</h2>
+		  <h3 class="prelavado-sub" id="consumo"></h3>
+	</div>
+
+	<div class="analisis3">
+		  <h2 class="prelavado-title">Presencia</h2>
+		  <h3 class="prelavado-sub" id="presenciab"></h3><br>
+		  <h2 class="prelavado-title">Clientes</h2>
+		  <h3 class="prelavado-sub"id="clientes"></h3>
+	</div>
+
+</div>
+
+<a href="info.html"><img src="resources/volver.png" alt="Boton Volver" style="padding: 50px; width: 160px; position:absolute; bottom:0; left:0;"></a>
+
+</body>
+
+</html>

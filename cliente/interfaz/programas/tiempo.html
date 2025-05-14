@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Lavavajillas Inteligente</title>
+    <meta charset="utf-8">
+    <link rel="stylesheet" href="../style.css">
+    <script type="text/javascript" src="../script.js"></script>
+    <script src="../../electro.js"></script>
+    <script src="../main.js"></script>
+</head>
+
+<body onload="showInfo()">
+
+<div class="boton_home">
+  <div class="borde_derecho">
+    <a href="../home.html">
+      <img id="icon_home" src="../resources\Favorites/icons8-home-100.svg" alt="Home"/>
+    </a>
+  </div>
+
+  <div class="titulo">
+    <div id="tituloPagina">Tiempo</div>
+  </div>
+  <p></p>
+
+</div>
+
+<div class="info">
+  <div id="horaActual"></div>
+</div>
+
+<hr class="linea1">
+
+<div class="container_info3">
+  <a><div id="10" onclick="seleccionarTiempo(10)">10</div></a>
+  <a><div id="15" onclick="seleccionarTiempo(15)">15</div></a>
+  <a><div id="20" onclick="seleccionarTiempo(20)">20</div></a>
+</div>
+
+<div class="container_info3">
+
+  <a><div id="25" onclick="seleccionarTiempo(25)">25</div></a>
+  <a><div id="30" onclick="seleccionarTiempo(30)">30</div></a>
+  <a><div id="40" onclick="seleccionarTiempo(40)">40</div></a>
+</div>
+
+<div class="container_info3">
+
+  <a><div id="50" onclick="seleccionarTiempo(50)">50</div></a>
+  <a><div id="60" onclick="seleccionarTiempo(60)">60</div></a>
+  <a><div></div></a>
+</div>
+
+<a href="prelavado.html"><img src="../resources/volver.png" alt="Boton Volver" style="padding: 50px; width: 160px; position:absolute; bottom:0; left:0;"></a>
+<button class="boton_ok2" onclick="aplicarTiempo()">OK</button>
+
+</body>
+
+</html>
