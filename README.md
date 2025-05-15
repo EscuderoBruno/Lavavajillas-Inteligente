@@ -3,13 +3,13 @@
 Interfaz de usuario para un lavavajillas inteligente, diseñado con un enfoque centrado en la usabilidad, accesibilidad y experiencia de usuario. Este proyecto simula el control de un lavavajillas moderno, con funciones de conectividad, personalización y gestión remota.
 
 <div style="display: flex; gap: 10px; flex-wrap: wrap; margin-bottom: 15px;">
-  <img src="https://github.com/user-attachments/assets/30a51718-2c13-492f-a855-98e5850bfd7a" alt="interfaz" width="32%" />
-  <img src="https://github.com/user-attachments/assets/61af816e-b703-4679-9304-18ad899fd67a" alt="interfaz" width="32%" />
+  <img src="https://github.com/user-attachments/assets/30a51718-2c13-492f-a855-98e5850bfd7a" alt="interfaz" width="44%" />
+  <img src="https://github.com/user-attachments/assets/61af816e-b703-4679-9304-18ad899fd67a" alt="interfaz" width="44%" />
 </div>
 
 <div style="display: flex; gap: 10px; flex-wrap: wrap; margin-bottom: 15px;">
-  <img src="https://github.com/user-attachments/assets/a48306a5-f8cb-4561-a265-ec2209ff09e1" alt="interfaz" width="32%" />
-  <img src="https://github.com/user-attachments/assets/6dea5ca3-3242-4942-ad09-003745dcfc0b" alt="interfaz" width="32%" />
+  <img src="https://github.com/user-attachments/assets/a48306a5-f8cb-4561-a265-ec2209ff09e1" alt="interfaz" width="44%" />
+  <img src="https://github.com/user-attachments/assets/6dea5ca3-3242-4942-ad09-003745dcfc0b" alt="interfaz" width="44%" />
 </div>
 
 ## Funcionalidades
