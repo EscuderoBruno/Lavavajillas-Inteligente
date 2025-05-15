@@ -50,8 +50,7 @@ Principios clave de usabilidad:
 
 Haz clic en la imagen para ver el video de demostración del lavavajillas inteligente:
 
-[![Ver Video en YouTube](https://img.youtube.com/vi/dM2hW8GnEHM/0.jpg)](https://youtu.be/dM2hW8GnEHM)
-
+[![Ver Video en YouTube](https://github.com/user-attachments/assets/49c81578-38be-47a3-a095-b5bcc517eb06)](https://youtu.be/dM2hW8GnEHM)
 
 ### 📄 Documento del Proyecto
 
